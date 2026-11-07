@@ -19,4 +19,4 @@
 
 ### I also added the footer section that consist of our email and phone number.
 
-# For the CSS file, I kept it simple by making the background simple and added text-aligns, text-decorations, and media to each section of the body.
+### For the CSS file, I kept it simple by making the background simple and added text-aligns, text-decorations, and media to each section of the body.
