@@ -8,9 +8,9 @@
 
 ## 3. What tools or resources did you find most helpful during this project?
 ### Asking for help from my fellow classmates and instructors were the most helpful while working on this project.
+------------------------------------------------------------------------------------------------------------------------
 
-
-**Brief Description of My Project**
+# *Brief Description of My Project*
 
 ### I build my html file with the header, a few unordered menu list consist of Home, About, Servces, and Contact. along with those I also created an image through Canva as logo.
 
