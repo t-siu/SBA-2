@@ -1,4 +1,4 @@
-# eflection Questions:
+# *Reflection Questions:*
 
 ## 1. What accessibility challenges did you face, and how did you address them?
 ### It was challenging when trying to style the html file. I had a hard time since I do not know a lot of the commands. I overcame it by asking for help and did a lot of online research.
